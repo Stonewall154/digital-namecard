@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Satkunas;Patrick;;;
+FN: Patrick  Satkunas 
+ORG: United States Marine Corps;
+TITLE:Staff Sergeant\nProducts Team, Data Science Division
+EMAIL;type=INTERNET;type=WORK;type=pref:patrick.satkunas@marines.usmc.mil
+TEL;type=WORK;type=VOICE:(386) 847 2855
+item1.ADR;type=WORK;type=pref:;;160 Winthrop Ave.\nLawrence\, MA;;;01843
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:https://www.marines.com/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
